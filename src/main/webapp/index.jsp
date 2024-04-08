@@ -12,7 +12,5 @@
 location.href = "./DeptSelectAll.do";
 </script>
 
-STS 에서 테스트 수정입니다.
-
 </body>
 </html>
